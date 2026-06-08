@@ -18,13 +18,10 @@
 - [Tech Stack](#-tech-stack--learning-outcomes)
 - [Key Features](#-key-features)
 - [Prerequisites](#-prerequisites)
-- [Getting Started](#-getting-started)
 - [API Endpoints](#-api-endpoints)
 - [Security Architecture](#-security-architecture)
 - [Caching Strategy](#-caching-strategy)
 - [Observability & Monitoring](#-observability--monitoring)
-- [Project Structure](#-project-structure)
-- [AWS Deployment](#-aws-deployment-guide)
 - [Key Learning Takeaways](#-key-learning-takeaways)
 
 ---
