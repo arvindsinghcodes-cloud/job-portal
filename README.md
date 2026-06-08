@@ -221,12 +221,4 @@ public Job createJob(JobRequest request) { ... }
 
 ---
 
-## 👨‍💻 Author
-
-**Arvind Kumar Singh**
-Senior Java Backend Developer | 6.5+ Years Experience
-Spring Boot • Microservices • Kafka • Redis • Docker • Kubernetes
-
----
-
 *JobPortal • Spring Boot 4.0 • Java 25*
