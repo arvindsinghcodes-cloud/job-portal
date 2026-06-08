@@ -54,7 +54,7 @@
 | Observability | Actuator + OpenTelemetry + Logback | Metrics, distributed tracing, structured logging |
 | HTTP Client | Spring RestClient | Modern declarative HTTP calls, reactive-style API |
 | Containerization | Docker Compose | Local dev environment, service orchestration |
-| Deployment | AWS RDS + EC2/ECS | Cloud DB provisioning, app hosting, IAM roles |
+| Deployment | AWS RDS + Elastic Beanstalk | Cloud DB provisioning, app hosting, IAM roles |
 | Dev Productivity | Lombok + DevTools | Boilerplate reduction, hot reload, annotation processing |
 | Validation | Spring Validation (Jakarta) | Bean validation, constraint handling, custom validators |
 
